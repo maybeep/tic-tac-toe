@@ -48,4 +48,15 @@ body {
   
   .game-info {
     margin-left: 20px;
+    font-size: 16px;
+  }
+
+  .status {
+    margin-bottom: 10 px;
+  }
+
+  .moves button{
+    border-color: black;
+    background-color: white;
+    margin: 5px;
   }
